@@ -1,0 +1,9 @@
+package com.senacniteroi.blogpessoal.model;
+
+public class Postagem {
+
+	public Postagem() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
